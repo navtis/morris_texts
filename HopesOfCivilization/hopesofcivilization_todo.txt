@@ -1,0 +1,12 @@
+
+1. Scan
+2. OCR
+3. Proofread
+4. Convert to html
+5. Create list of deliveries
+6. Create list of publications
+7. Create pages for reports in the press, if appropriate
+8. Create final html
+9. Validate html against w3c validator
+10. Upload to MIA
+11. Check with linkchecker

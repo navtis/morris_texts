@@ -1,0 +1,13 @@
+
+1. Scan DONE
+2. OCR DONE
+3. Proofread IN PROGRESS GS
+4. Remove/merge copyrighted notes
+5. Convert to html
+6. Create list of deliveries
+7. Create list of publications
+8. Create pages for reports in the press, if appropriate
+9. Create final html
+10. Validate html against w3c validator
+11. Upload to MIA
+12. Check with linkchecker

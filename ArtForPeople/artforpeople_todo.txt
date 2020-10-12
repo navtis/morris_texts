@@ -1,0 +1,8 @@
+
+1. Create page for press report
+2. Investigate which published lecture (if any) this really corresponds to
+3. Link to published lecture page
+4. Create final html
+5. Validate html against w3c validator
+6. Upload to MIA
+7. Check with linkchecker

@@ -1,0 +1,6 @@
+
+1. Investigate publications
+2. Update metadata on https://www.marxists.org/archive/morris/works/1884/as/index.htm
+3. Validate html against w3c validator
+4. Upload to MIA
+5. Check with linkchecker
