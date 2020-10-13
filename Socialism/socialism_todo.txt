@@ -1,0 +1,10 @@
+
+1. Scan: DONE
+2,. OCR: DONE
+3. Proofread reports (originals in British Newspaper Archive)
+4. Convert to html
+5. Create list of deliveries
+6. Create final html
+7. Validate html against w3c validator
+8. Upload to MIA
+9. Check with linkchecker
