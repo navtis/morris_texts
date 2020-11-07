@@ -1,0 +1,112 @@
+
+<hr />
+
+<h2 class="information" id="footnotes">
+              Footnotes
+</h2>
+<p class="information"><a href="#n1" id="fn1">1.</a> Words in [square brackets] are editorial additions by LeMire. Words in {</em>curly brackets and italics<em>} are marginal notes by Morris himself.</p>
+
+<p class="information"><a href="#n2" id="fn2">2.</a> The <em>Chronicle</em>
+report of 15th Jan. 1894 records Morris as saying "the Hundred of Ossulton, in
+which Hammersmith was situate"</p>
+
+<p class="information"><a href="#n3" id="fn3">3.</a> Much of the information in this talk is taken from Charles Elton, <em>The Origins of English History</em>, London, 1882.</p>
+p class="information"><a href="#n3" id="fn3">3.</a> The reference is to the following quote from the Anglo-Saxon poem now known as 'The Ruin':
+
+<blockquote>Wondrous the wall-stone that Weird hath broken . . . the
+roof-tree riven, the grey gates despoiled. Often that wall withstood
+Raeghar and Readfah, chieftain after chieftain rising in storm.
+Bright was the burgh-place many the princely halls, and high
+was the roof of gold ... And the court is dreary, and the
+crowned roof lies low in the shadow of the purple arch. Princes
+of old time joyous and gold-bright and splendidly-decked, proud
+and with wine elate, in war gear shone. They looked on their
+treasures, on silver and gems and on stones of price, and on this
+bright burgh of their broad realm. The stone court stands, the
+hot stream hath whelmed it, there where the bath was hot on
+the breast.</blockquote></p>
+
+<p class="information"><a href="#n4" id="fn4">4.</a> The reference is to p. 105 of
+Benjamin Thorpe's edition of <em>The Anglo-Saxon Chronicle</em> (London 1861)
+which reads:
+ 
+<blockquote>In this year came Olaf (Anlaf) and Svein to London, on the Nativity
+of St. Mary (Sept. 8th), with ninety four ships, and then they were obstinately
+fighting against the town, and would have set it on fire. But they there
+sustained more harm and evil than they ever weaned that any townsmen could do
+to them.  For the holy mother of God, on that day, manifested her mercy to the
+townsmen, and delivered them from their foes. And they then went thence, and
+wrought the greatest evil that ever any army could do, in burning, and
+harrying, and in man-slayings, as well by the sea-coast, as in Essex, and in
+Kent, and in Sussex, and in Hampshire. And at last they took them horse, and
+rode as far as they would, and were doing unspeakable evil. Then the king and
+his “witan” resolved that they should be sent to, and promised tribute and
+food, provided that they should cease from ravaging; and they then accepted
+that. And all the army then came to Southampton, and there took
+winter-quarters; and there they were fed from all the realm of the West Saxons,
+and they were paid sixteen thousand pounds of money. Then the king sent bishop
+Aelfeah and the aldorman Aethelweard after king Olaf; and the while hostages
+were given to the ships; and they then led Olaf with great worship to the king
+at Andover. And king Aethelred received him at the bishop’s hand, and royally
+gifted him. And Olaf then promised him, as he also fulfilled, that he would
+never again come with hostility to England.</blockquote></p>
+
+
+<p class="information"><a href="#n5" id="fn5">5.</a> The reference is to p. 109 of
+Benjamin Thorpe's edition of <em>The Anglo-Saxon Chronicle</em> (London 1861)
+which reads:
+ 
+<blockquote>An. DCCCC. XCIX. In this year the army again came about
+into the Thames, and then went up along the Medway, and to
+Rochester. And then the Kentish forces came against them, and
+they stoutly engaged together, but alas! that they too quickly
+gave way and fled; because they had not the support which they
+should have had. And the Danish had possession of the place of
+carnage; and then took horses and rode withersoever they themselves
+would, and ruined and plundered almost all the West
+Kentish. Then the king with his “witen” resolved that they
+should be opposed with naval force, and also with a land force.
+But when the ships were ready, then they delayed from day to
+day, and harrassed the poor people who lay in the ships; and
+ever as it should be forwarder, so was it later, and from one time
+to another; and ever they let their foes’ army increase, and ever
+they receded from the sea, and ever they went forth after them.
+And then in the end neither the naval force nor the land force
+was productive of anything but the people’s distress, and a waste
+of money, and the emboldening of their foes.</blockquote></p>
+
+<hr />
+
+<h2 class="information" id="biblio">
+              Bibliographical Note
+</h2>
+<h3 class="information">Title 
+</h3>
+<p><em>Early England</strong>
+</p>
+
+<h3 class="information">Source 
+</h3>
+<p class="information"><em>The Unpublished Lectures of William Morris</em>, Eugene LeMire, Wayne State University Press, 1969</em>. Transcribed from Morris's original manuscript,  B.M. Add. MS. 45332(4)</p>
+</p>
+<h3 class="information">Deliveries</h3>
+<ol class="information">
+<li><strong>12th December 1886,</strong> to the Hammersmith Branch of the Socialist League.</li>
+<li><strong>1st February 1887,</strong> at the South Place Institute</li>
+<li><strong>14th January 1894,</strong> at the South London Art Gallery, Peckham Rd. Reported in the <em>Daily Chronicle</em> of 15th Jan 1894, widely syndicated; the talk seems to have followed the manuscript quite closely.</li>
+</ol>
+
+<h3 class="information">Note</h3>
+<p class="information">This was the first in a series
+of three historical talks: <em>England as it was, is and may be</em>, also known
+as <em>Early England</em>, <a href="">Mediaeval (or Feudal) England</a>, and 
+<a href="../1887/artandindustry.htm">Art and Industry in the 14th Century</a>.</p>
+
+
+<h3 class="information">Transcription, notes, and HTML 
+</h3>
+<p>Graham Seaman, November 2020. 
+</p>
+<hr/>
+
+

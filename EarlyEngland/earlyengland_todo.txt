@@ -1,12 +1,12 @@
 
 1. Scan DONE
 2. OCR DONE
-3. Proofread IN PROGRESS GS
-4. Remove/merge copyrighted notes
-5. Convert to html
-6. Create list of deliveries
-7. Create list of publications
-8. Create pages for reports in the press, if appropriate
+3. Proofread DONE
+4. Remove/merge copyrighted notes DONE
+5. Convert to html IN PROGRESS
+6. Create list of deliveries DONE
+7. Create list of publications [N/A]
+8. Create pages for reports in the press, if appropriate [NOT DOING]
 9. Create final html
 10. Validate html against w3c validator
 11. Upload to MIA
