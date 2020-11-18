@@ -1,0 +1,79 @@
+body {
+padding-left: 12pt;
+padding-right: 12pt;
+color: #000;
+background: #FFF;
+}
+
+h1 {
+font-size: 24pt;
+font-weight: bold;
+text-align: center;
+font-variant: small-caps;
+font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h2 {
+font-size: 18pt;
+font-weight: bold;
+text-align: center;
+font-variant: small-caps;
+font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h3 {
+font-size: 16pt;
+font-weight: bold;
+text-align: left;
+font-variant: small-caps;
+font-family: "Helvetica", "Arial", sans-serif;
+}
+
+p, ul, ol {
+font-size: 12pt;
+line-height: 120%;
+font-family: "Georgia", "New Century Schoolbook", "Times New Roman", "Times", serif;
+}
+
+p {
+text-align: justify;
+}
+
+blockquote p {
+text-align: left;
+}
+
+em, q {
+font-style: italic;
+}
+
+strong {
+font-weight: bold;
+}
+
+a:link, a:visited, a:active, a:hover {
+text-decoration: none;
+color: #000;
+background: #FFF;
+}
+
+.menu {
+display: none;
+}
+
+pagenum {
+  float: right;
+  margin-left: 2em;
+  margin-right: 5px;
+  font-size: 100%;
+  color: #999;
+  font-style: italic;
+  }
+
+
+
+/* =====================================*/
+/* Adjustments for Mobile Devices       */
+/* =====================================*/
+
+/* Removed as inappropriate for print */

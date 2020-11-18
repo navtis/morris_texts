@@ -1,0 +1,100 @@
+body {
+margin-left: 5%;
+margin-right: 2%;
+background: #fff;
+font-family: "Verdana", "Lucida", "Arial", "Helvetica", sans-serif;
+}
+
+h1, h2, h3, h4 {
+color: #8B0000;
+background: transparent;
+font-family: "Verdana", "Lucida", "Arial", "Helvetica", sans-serif;
+}
+
+p {
+/*color: #8B0000;*/
+color: #000;
+background: transparent;
+line-height: 140%;
+font-family: "Verdana", "Lucida", "Arial", "Helvetica", sans-serif;
+} 
+
+a:link {
+color: #473C8B;
+background: transparent;
+}
+
+a:active {
+color: #CD2626;
+background: transparent;
+}
+
+a:visited {
+color: #5D478B;
+background: transparent;
+}
+
+div.verse{
+font-style: italic;
+}
+
+.information {
+font-style: italic;
+}
+.information em {
+font-weight: bold;
+}
+
+.pagenum {
+  float: right;
+  margin-left: 2em;
+  margin-right: 5px;
+  font-size: 100%;
+  color: #999;
+  font-style: italic;
+  }
+
+
+
+/* footnote and menu classes are used at the end of 
+   the main content - extra formatting could be added for these 
+   elements at some point.
+
+a span.note {
+display: none;
+}
+
+a:hover span.note{
+display: block;
+position: absolute;
+left: 100px;
+width:40em;
+}
+
+.footnote {
+}
+
+.menu {
+}
+
+*/
+
+/* =====================================*/
+/* Adjustments for Mobile Devices       */
+/* =====================================*/
+
+@media (max-width: 480px) {
+  p { font-size: 12pt; margin-left: 1%; margin-right: 1%; margin-bottom: 4pt; margin-top: 4pt; line-height: 125%; }
+  p.indentb { margin-left: 6%; margin-right: 1%; }
+  p.quoteb { margin-left: 6%; margin-right: 1%; }
+  p.index { margin-left: 6%; margin-right: 1%; }
+  h1 { font-size: 18pt; margin-left: 1%; margin-right: 1%; }
+  h2 { font-size: 16pt; margin-left: 1%; margin-right: 1%; }
+  h3 { font-size: 14pt; margin-left: 1%; margin-right: 1%; }
+  h4 { font-size: 13pt; }
+  h5 { margin-left: 1%; }
+  h6 { margin-left: 1%; }
+  img { width: 150px; height: auto; }
+  img.auto {width: auto ; height: auto; }
+  blockquote {margin-left: 1%; }
+}
